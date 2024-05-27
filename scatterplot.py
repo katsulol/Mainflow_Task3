@@ -71,3 +71,5 @@ def start():
     print("Enter the respective number to display the graph: ")
     print("Graphs available are: \nIncome Expenditure Graph(1)\nAge Income Graph(2)\nAge Expenditure Graph(3)")
     num()
+
+start()
